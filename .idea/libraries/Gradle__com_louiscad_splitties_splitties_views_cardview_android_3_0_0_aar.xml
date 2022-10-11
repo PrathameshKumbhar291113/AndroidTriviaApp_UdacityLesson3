@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.louiscad.splitties:splitties-views-cardview-android:3.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5628f79d02ac734a1bd01339e2bdabc9/transformed/splitties-views-cardview-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c5d9432b520f704bd2f4a15f8870054a/transformed/splitties-views-cardview-debug/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c5d9432b520f704bd2f4a15f8870054a/transformed/splitties-views-cardview-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c5d9432b520f704bd2f4a15f8870054a/transformed/splitties-views-cardview-debug/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-views-cardview-android/3.0.0/50f17961da2269ca3102f0661c55a2caad47c42b/splitties-views-cardview-android-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-views-cardview-android/3.0.0/1feda27fee99678b0cbd2b77c6270fc6bce73ccb/splitties-views-cardview-android-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

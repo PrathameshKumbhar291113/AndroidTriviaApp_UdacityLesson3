@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.louiscad.splitties:splitties-fun-pack-android-material-components-android:3.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/19acfbac968e159d288766bf7eec7833/transformed/splitties-fun-pack-android-material-components-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e50db05da86d4a5ad3065121c606da46/transformed/splitties-fun-pack-android-material-components-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e50db05da86d4a5ad3065121c606da46/transformed/splitties-fun-pack-android-material-components-debug/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e50db05da86d4a5ad3065121c606da46/transformed/splitties-fun-pack-android-material-components-debug/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-fun-pack-android-material-components-android/3.0.0/21e6f2abc2dd1783e83191ad18d18dff4538e8f9/splitties-fun-pack-android-material-components-android-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-fun-pack-android-material-components-android/3.0.0/6aafdfbb4ea489787455ca1318ea74a29463bd56/splitties-fun-pack-android-material-components-android-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

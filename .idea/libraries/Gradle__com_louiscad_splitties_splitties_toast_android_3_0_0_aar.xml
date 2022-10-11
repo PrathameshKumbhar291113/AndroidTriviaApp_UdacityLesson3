@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.louiscad.splitties:splitties-toast-android:3.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7cb2f61bf230e4ab45b80c606bfc79be/transformed/splitties-toast-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f44308774abb1750645e2d6accc15912/transformed/splitties-toast-debug/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f44308774abb1750645e2d6accc15912/transformed/splitties-toast-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f44308774abb1750645e2d6accc15912/transformed/splitties-toast-debug/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-toast-android/3.0.0/c58e7f57d5fe7121fd684d2b440bfdc2f156c2b0/splitties-toast-android-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-toast-android/3.0.0/9cd17b21c6c76f5ea16d34c9c1effa845b34f65d/splitties-toast-android-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

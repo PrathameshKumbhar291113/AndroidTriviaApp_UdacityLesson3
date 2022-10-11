@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.louiscad.splitties:splitties-views-android:3.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d8b525e2c090f6d4cb89483f44432b28/transformed/splitties-views-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f8c18129be9737e4da6d13473b3afb50/transformed/splitties-views-debug/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f8c18129be9737e4da6d13473b3afb50/transformed/splitties-views-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f8c18129be9737e4da6d13473b3afb50/transformed/splitties-views-debug/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-views-android/3.0.0/46916b750166c5e2696ba83076aa2938e4f750e1/splitties-views-android-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-views-android/3.0.0/f2bb6f306a9550e1cdcd32d877264f25f59fca76/splitties-views-android-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

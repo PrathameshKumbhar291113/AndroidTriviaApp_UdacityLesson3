@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.louiscad.splitties:splitties-views-recyclerview-android:3.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/951d97eb25c78334ea90894a0104ee7d/transformed/splitties-views-recyclerview-debug/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/62e3709afa0041ef7574d206b507ed17/transformed/splitties-views-recyclerview-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/62e3709afa0041ef7574d206b507ed17/transformed/splitties-views-recyclerview-debug/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/62e3709afa0041ef7574d206b507ed17/transformed/splitties-views-recyclerview-debug/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-views-recyclerview-android/3.0.0/28fff895c4b9401adc2ff2ad5f11fc3ce5bd9551/splitties-views-recyclerview-android-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-views-recyclerview-android/3.0.0/325f6543fde1704460eceb7d6edb195cf63de0c2/splitties-views-recyclerview-android-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

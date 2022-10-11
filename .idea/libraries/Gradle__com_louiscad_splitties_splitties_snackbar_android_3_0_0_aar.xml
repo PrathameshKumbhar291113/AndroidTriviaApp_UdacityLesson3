@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.louiscad.splitties:splitties-snackbar-android:3.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bb9b6d5b5eca6a0a87e7427b2e47ee30/transformed/splitties-snackbar-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7bb94f49c19d289d42b11ab2582406a8/transformed/splitties-snackbar-debug/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7bb94f49c19d289d42b11ab2582406a8/transformed/splitties-snackbar-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7bb94f49c19d289d42b11ab2582406a8/transformed/splitties-snackbar-debug/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-snackbar-android/3.0.0/5398a084e7d45856a7eb76ae6472f095fad7a600/splitties-snackbar-android-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-snackbar-android/3.0.0/b4d769c0e82ad85a428f0ccb9b30542dc84ad026/splitties-snackbar-android-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

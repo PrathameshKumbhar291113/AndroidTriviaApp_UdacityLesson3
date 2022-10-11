@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-55:/layout/fragment_title.xml",
+        "source": "com.example.myapplication.app-main-58:/layout/fragment_title.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-55:/layout/fragment_game.xml",
+        "source": "com.example.myapplication.app-main-58:/layout/fragment_game.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-55:/layout/activity_main.xml",
+        "source": "com.example.myapplication.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-55:/layout/fragment_game_over.xml",
+        "source": "com.example.myapplication.app-main-58:/layout/fragment_game_over.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-55:/layout/fragment_game_won.xml",
+        "source": "com.example.myapplication.app-main-58:/layout/fragment_game_won.xml"
+    }
+]

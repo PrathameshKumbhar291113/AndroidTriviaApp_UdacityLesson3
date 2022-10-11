@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.louiscad.splitties:splitties-views-appcompat-android:3.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/af8d8afec8ace5b999fdb9650ec9c839/transformed/splitties-views-appcompat-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d207b2efa7d1db38c5bc05228be7f372/transformed/splitties-views-appcompat-debug/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d207b2efa7d1db38c5bc05228be7f372/transformed/splitties-views-appcompat-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d207b2efa7d1db38c5bc05228be7f372/transformed/splitties-views-appcompat-debug/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-views-appcompat-android/3.0.0/3f60284af88dd7ec2e6e09ed00148bc612441d6f/splitties-views-appcompat-android-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-views-appcompat-android/3.0.0/4e5f48eacfd70c2f32763bea0fb3106095fc81c5/splitties-views-appcompat-android-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

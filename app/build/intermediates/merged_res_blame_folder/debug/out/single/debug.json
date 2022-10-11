@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\layout_fragment_title.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\layout\\fragment_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\drawable_nav_header.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\drawable\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\layout_fragment_game.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\layout\\fragment_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\anim_fade_out.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\drawable_share.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\drawable\\share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\drawable_you_win.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\drawable\\you_win.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\drawable_settings.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\drawable\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\layout_fragment_game_over.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\layout\\fragment_game_over.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\drawable_android_category_simple.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\drawable\\android_category_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\drawable_trivia_rules.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\drawable\\trivia_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\menu_overflow_menu.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\menu\\overflow_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\drawable_rules.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\drawable\\rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\drawable_android_trivia.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\drawable\\android_trivia.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\drawable_android.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\drawable\\android.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\layout_fragment_rules.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\layout\\fragment_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-56:/menu_winner_menu.xml.flat",
+        "source": "com.example.myapplication.app-main-58:/menu/winner_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\drawable_try_again.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\drawable\\try_again.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\layout_fragment_game_won.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\layout\\fragment_game_won.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\layout_fragment_about.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\menu_winner_menu.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\menu\\winner_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\drawable_about_android_trivia.xml.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\drawable\\about_android_trivia.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-56:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Prathamesh\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-58:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

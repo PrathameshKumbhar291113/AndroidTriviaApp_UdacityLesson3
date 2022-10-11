@@ -1,0 +1,491 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.databinding:databinding-adapters:7.2.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\8468817910493b3301ee73d5356f9ad1\transformed\databinding-adapters-7.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-ktx:7.2.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\cad9323ce212c9d649f90add59797113\transformed\databinding-ktx-7.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:7.2.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\ec1343055a28566dd409a6f66d3e9eb5\transformed\databinding-runtime-7.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.louiscad.splitties:splitties-fun-pack-android-material-components-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\e50db05da86d4a5ad3065121c606da46\transformed\splitties-fun-pack-android-material-components-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-fun-pack-android-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\201dacaf11e7d07ac6d0f86d6058ab22\transformed\splitties-fun-pack-android-appcompat-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-alertdialog-appcompat-coroutines-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\45eb396e4774640bc34a9fdee0e3bafa\transformed\splitties-alertdialog-appcompat-coroutines-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-fun-pack-android-base-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8ff91d2e6fad13f5f1350a3f99efabd7\transformed\splitties-fun-pack-android-base-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-permissions-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\5f6ced76a3949fc1635b149e1bc47b9d\transformed\splitties-permissions-debug\AndroidManifest.xml:3:1-16:12
+MERGED from [com.louiscad.splitties:splitties-fragments-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\1a643f44c429ef6c7db1dd97ee3352df\transformed\splitties-fragments-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-lifecycle-coroutines-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\1d9877d2a78a35e12677ef0d12861bc9\transformed\splitties-lifecycle-coroutines-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-preferences-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\72a7ec11df78fecc6ed6acddd561cc63\transformed\splitties-preferences-debug\AndroidManifest.xml:3:1-12:12
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\e02a87514365c9660699429728b051a0\transformed\datastore-preferences-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\9b16ea5eca1a20f79a4e7981704dde0a\transformed\datastore-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\99ab990a2fa082c0d7fd82c9bc4de1ef\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8d8f6276d869f73108e34d1a455355be\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\83d753fc76c2d63e3d10b95888bf283a\transformed\navigation-fragment-ktx-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\bf8018215174f979a298121009bf4c6d\transformed\navigation-fragment-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\c4e0a6cae3b8ae1ef5b0ea971490be84\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\b78b12446456cc9b94381cebbe873725\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\2117903887928d655a4d533940dbb5fd\transformed\fragment-ktx-1.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\c407d1a45eb20634c4c96c63b32d2a1e\transformed\navigation-ui-ktx-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\0794bd00696bb854d5bbba875d099df2\transformed\navigation-runtime-ktx-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\f0033f06febec52a2feb88b711af26c4\transformed\navigation-ui-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\8043e23cff3d65af3940d2af047561be\transformed\navigation-runtime-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\c2339c9eb29a80e3d1d5a83ccb80302d\transformed\activity-ktx-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\48294e3d8be6ff742b96f7190281a1a2\transformed\navigation-common-ktx-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\28fd7349fa81bc7bee4beb9b118feff2\transformed\navigation-common-2.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\261a1bf58610a705eea9addf4711361d\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\d9f932008c9f7bee19fbda47d160eca1\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.louiscad.splitties:splitties-alertdialog-material-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8120188814b27ffab8751604cd0f6707\transformed\splitties-alertdialog-material-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-views-material-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\1229c42f45d232d81c9103ed58fa8051\transformed\splitties-views-material-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-snackbar-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\7bb94f49c19d289d42b11ab2582406a8\transformed\splitties-snackbar-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-views-coroutines-material-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8f1bf954478354a60f44c1a5789418b1\transformed\splitties-views-coroutines-material-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\8a4e188b0ca6bebd081b7810c81b3ec7\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.louiscad.splitties:splitties-material-lists-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\79c6a099cb9bbeb9a850c7a3cbdd36a3\transformed\splitties-material-lists-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-views-selectable-constraintlayout-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\4432d3a695b8ac73ede5a9d39f66e5c4\transformed\splitties-views-selectable-constraintlayout-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-views-dsl-constraintlayout-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\4815d08b4ff586633449648cfeaee70e\transformed\splitties-views-dsl-constraintlayout-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Prathamesh\.gradle\caches\transforms-3\479e62917529d048d0e178b459b00779\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.louiscad.splitties:splitties-alertdialog-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\625c864eb8227dd138899c6c7bfcb801\transformed\splitties-alertdialog-appcompat-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:3:1-25:12
+MERGED from [com.louiscad.splitties:splitties-views-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\d207b2efa7d1db38c5bc05228be7f372\transformed\splitties-views-appcompat-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-views-selectable-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\80947f64bb01c694d1ef5dcb300fec1f\transformed\splitties-views-selectable-appcompat-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\14482afc7fc95f0fcdfd7b1e31af4342\transformed\appcompat-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\e9e92026c75516c492528867a96ae074\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.louiscad.splitties:splitties-fragmentargs-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\29d9b714af13d2673ac597f0c7657907\transformed\splitties-fragmentargs-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [androidx.fragment:fragment:1.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\ce04eed37c6424421be7a07dc9156c01\transformed\fragment-1.5.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\d87c6e291625300e6b9f16ea4405a50d\transformed\activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\357aa2e8a00be3379ef47b7ef9860262\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\a4e47135330166fe27d4d9caaad8c398\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\6420da54b41c69fd94d5741f58608abd\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\8c2e3a223d4d026034cf858c025c50e4\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\03c24e8a3c2a783173dfe771fffb0427\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.louiscad.splitties:splitties-views-coroutines-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0324e610e9524d0f06e5a228fe334c4b\transformed\splitties-views-coroutines-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-views-cardview-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\c5d9432b520f704bd2f4a15f8870054a\transformed\splitties-views-cardview-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-views-selectable-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\d7cd8d9f1583604a39e4e4d4d836bb5a\transformed\splitties-views-selectable-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-views-recyclerview-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\62e3709afa0041ef7574d206b507ed17\transformed\splitties-views-recyclerview-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-views-dsl-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\47f12a7152f053bf9045aa2cd0d716a4\transformed\splitties-views-dsl-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-views-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\f8c18129be9737e4da6d13473b3afb50\transformed\splitties-views-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-toast-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\f44308774abb1750645e2d6accc15912\transformed\splitties-toast-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-resources-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\e388d4e0219b7a7a5721fe99cee6d6df\transformed\splitties-resources-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-intents-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\fc51b74e3d3dbc7a064404062b05b8e7\transformed\splitties-intents-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-systemservices-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0e33e58d8ef4d1435b64b721ee002378\transformed\splitties-systemservices-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-appctx-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\dbf0dcfa28ba0d9999071bb14e67f898\transformed\splitties-appctx-debug\AndroidManifest.xml:3:1-25:12
+MERGED from [com.louiscad.splitties:splitties-mainhandler-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8c0edf6776b37e2feb2e262c98153733\transformed\splitties-mainhandler-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-activities-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\ab27c4f3bb45abd3b96d4968b25e78cd\transformed\splitties-activities-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-bundle-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\d00fc33301acd4e8d638b149411dc1ea\transformed\splitties-bundle-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-dimensions-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\d64eeb685d808537bd7bdbe7e639a711\transformed\splitties-dimensions-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-mainthread-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\fdeffd83ab1717db323afcb614a15c48\transformed\splitties-mainthread-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-material-colors-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\be36af7cc2e141e9f9a0816ed7e64405\transformed\splitties-material-colors-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [com.louiscad.splitties:splitties-exceptions-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\604e85ffc11bf2f75bdaf978779a5e47\transformed\splitties-exceptions-debug\AndroidManifest.xml:3:1-10:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0c850290a36de1163d538ce3dc3841d3\transformed\core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\fac3fa795c13e54c565ff25885df1208\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\1a309b7e80d6b2e168f8d91d82fcbfb8\transformed\timber-5.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\62113bf9b28d8514837cd49085b8cfc2\transformed\appcompat-resources-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\2eb359899ce1cf2a02f9893f5b00a0eb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\882be0847b21b6add521515877fb0223\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\5939407cba89a682be98a02f902dbecb\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\4ef7eb172e511e84c15d7c6ea75f3581\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\a28cf20a37fa47d15bebc2a3074ee647\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\717414a57bfab76606a8e8a7e05151cc\transformed\emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\eca73bb029338c01109091899fb184f2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\d6465c228a27a1b56c65c9e4010f6250\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\76f2bc71c903ce0c59ac889e575a5096\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\4641e1f090147ddf0145b0866be019cf\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\ced64f7c003cf7e53d38b5073d71f174\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\2e529ae5e231cc2dedbe7b42f7a10a1e\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\9f5195e030602974dd167e4d774b2a6d\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0bbd1ac94e5abeb89e25cdfd432b4829\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\6cabb1080d0fccfaf458346024c66fb9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\47b87ff9a7a02422a7f1260524c807cd\transformed\viewbinding-7.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\3d22f6ac62dc953f0c48dc89ed1d39b4\transformed\lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8cc7e21488609b8f72912e0766aee613\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\8c03cb59b3d1c6e15b943b619f5918c8\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\2410b5360f1212cda693d5f6e64c82ff\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\2439feaae6df24843190b1c23670a0ac\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\f753fc698ba6603b59097be3e6411b5a\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\9eb6ee35944cd0327792ab4b11315366\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\d7d81f943ddb978dd8e2601f9348b5ec\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\02923b818f933947fa049eae87e7001f\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\1e1d455ba41d028f62b70a8aa7cff3c5\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\d09f290b33b4ba0b4e9634741ca788c2\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\e27ef2c1e15b5b0366c75ab8bab58608\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\427df5ee3d8b9121a6fdddc090a944cf\transformed\startup-runtime-1.1.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0a11f7303b9e3aebd230d7de9fdb7f39\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0401cfcce8f68f707ad9fc81693d1dfe\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\d1c44cd4ad46464bb33537d839631a11\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\e369a274a198873587f4f39a386c16c7\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\cffae8dffaf81854dd4d9e3d6e10dfe4\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:4:5-40
+		INJECTED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:6:5-25:19
+MERGED from [com.louiscad.splitties:splitties-permissions-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\5f6ced76a3949fc1635b149e1bc47b9d\transformed\splitties-permissions-debug\AndroidManifest.xml:10:5-14:19
+MERGED from [com.louiscad.splitties:splitties-permissions-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\5f6ced76a3949fc1635b149e1bc47b9d\transformed\splitties-permissions-debug\AndroidManifest.xml:10:5-14:19
+MERGED from [com.louiscad.splitties:splitties-preferences-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\72a7ec11df78fecc6ed6acddd561cc63\transformed\splitties-preferences-debug\AndroidManifest.xml:10:5-20
+MERGED from [com.louiscad.splitties:splitties-preferences-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\72a7ec11df78fecc6ed6acddd561cc63\transformed\splitties-preferences-debug\AndroidManifest.xml:10:5-20
+MERGED from [androidx.window:window:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\b78b12446456cc9b94381cebbe873725\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\b78b12446456cc9b94381cebbe873725\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\8a4e188b0ca6bebd081b7810c81b3ec7\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\8a4e188b0ca6bebd081b7810c81b3ec7\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Prathamesh\.gradle\caches\transforms-3\479e62917529d048d0e178b459b00779\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Prathamesh\.gradle\caches\transforms-3\479e62917529d048d0e178b459b00779\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:11:5-23:19
+MERGED from [com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:11:5-23:19
+MERGED from [com.louiscad.splitties:splitties-appctx-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\dbf0dcfa28ba0d9999071bb14e67f898\transformed\splitties-appctx-debug\AndroidManifest.xml:11:5-23:19
+MERGED from [com.louiscad.splitties:splitties-appctx-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\dbf0dcfa28ba0d9999071bb14e67f898\transformed\splitties-appctx-debug\AndroidManifest.xml:11:5-23:19
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\1a309b7e80d6b2e168f8d91d82fcbfb8\transformed\timber-5.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\1a309b7e80d6b2e168f8d91d82fcbfb8\transformed\timber-5.0.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\717414a57bfab76606a8e8a7e05151cc\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\717414a57bfab76606a8e8a7e05151cc\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0bbd1ac94e5abeb89e25cdfd432b4829\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0bbd1ac94e5abeb89e25cdfd432b4829\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\6cabb1080d0fccfaf458346024c66fb9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\6cabb1080d0fccfaf458346024c66fb9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8cc7e21488609b8f72912e0766aee613\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8cc7e21488609b8f72912e0766aee613\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\427df5ee3d8b9121a6fdddc090a944cf\transformed\startup-runtime-1.1.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\427df5ee3d8b9121a6fdddc090a944cf\transformed\startup-runtime-1.1.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0bbd1ac94e5abeb89e25cdfd432b4829\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:9:9-54
+	android:roundIcon
+		ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:15:9-29
+	android:icon
+		ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:14:9-51
+	android:dataExtractionRules
+		ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:8:9-65
+activity#com.example.myapplication.MainActivity
+ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:exported
+		ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.2.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\8468817910493b3301ee73d5356f9ad1\transformed\databinding-adapters-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:7.2.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\8468817910493b3301ee73d5356f9ad1\transformed\databinding-adapters-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.2.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\cad9323ce212c9d649f90add59797113\transformed\databinding-ktx-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.2.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\cad9323ce212c9d649f90add59797113\transformed\databinding-ktx-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.2.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\ec1343055a28566dd409a6f66d3e9eb5\transformed\databinding-runtime-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.2.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\ec1343055a28566dd409a6f66d3e9eb5\transformed\databinding-runtime-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.louiscad.splitties:splitties-fun-pack-android-material-components-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\e50db05da86d4a5ad3065121c606da46\transformed\splitties-fun-pack-android-material-components-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-fun-pack-android-material-components-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\e50db05da86d4a5ad3065121c606da46\transformed\splitties-fun-pack-android-material-components-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-fun-pack-android-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\201dacaf11e7d07ac6d0f86d6058ab22\transformed\splitties-fun-pack-android-appcompat-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-fun-pack-android-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\201dacaf11e7d07ac6d0f86d6058ab22\transformed\splitties-fun-pack-android-appcompat-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-alertdialog-appcompat-coroutines-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\45eb396e4774640bc34a9fdee0e3bafa\transformed\splitties-alertdialog-appcompat-coroutines-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-alertdialog-appcompat-coroutines-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\45eb396e4774640bc34a9fdee0e3bafa\transformed\splitties-alertdialog-appcompat-coroutines-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-fun-pack-android-base-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8ff91d2e6fad13f5f1350a3f99efabd7\transformed\splitties-fun-pack-android-base-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-fun-pack-android-base-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8ff91d2e6fad13f5f1350a3f99efabd7\transformed\splitties-fun-pack-android-base-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-permissions-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\5f6ced76a3949fc1635b149e1bc47b9d\transformed\splitties-permissions-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-permissions-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\5f6ced76a3949fc1635b149e1bc47b9d\transformed\splitties-permissions-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-fragments-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\1a643f44c429ef6c7db1dd97ee3352df\transformed\splitties-fragments-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-fragments-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\1a643f44c429ef6c7db1dd97ee3352df\transformed\splitties-fragments-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-lifecycle-coroutines-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\1d9877d2a78a35e12677ef0d12861bc9\transformed\splitties-lifecycle-coroutines-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-lifecycle-coroutines-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\1d9877d2a78a35e12677ef0d12861bc9\transformed\splitties-lifecycle-coroutines-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-preferences-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\72a7ec11df78fecc6ed6acddd561cc63\transformed\splitties-preferences-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-preferences-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\72a7ec11df78fecc6ed6acddd561cc63\transformed\splitties-preferences-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\e02a87514365c9660699429728b051a0\transformed\datastore-preferences-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\e02a87514365c9660699429728b051a0\transformed\datastore-preferences-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\9b16ea5eca1a20f79a4e7981704dde0a\transformed\datastore-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\9b16ea5eca1a20f79a4e7981704dde0a\transformed\datastore-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\99ab990a2fa082c0d7fd82c9bc4de1ef\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\99ab990a2fa082c0d7fd82c9bc4de1ef\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8d8f6276d869f73108e34d1a455355be\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8d8f6276d869f73108e34d1a455355be\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\83d753fc76c2d63e3d10b95888bf283a\transformed\navigation-fragment-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\83d753fc76c2d63e3d10b95888bf283a\transformed\navigation-fragment-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\bf8018215174f979a298121009bf4c6d\transformed\navigation-fragment-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\bf8018215174f979a298121009bf4c6d\transformed\navigation-fragment-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\c4e0a6cae3b8ae1ef5b0ea971490be84\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\c4e0a6cae3b8ae1ef5b0ea971490be84\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\b78b12446456cc9b94381cebbe873725\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\b78b12446456cc9b94381cebbe873725\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\2117903887928d655a4d533940dbb5fd\transformed\fragment-ktx-1.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\2117903887928d655a4d533940dbb5fd\transformed\fragment-ktx-1.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\c407d1a45eb20634c4c96c63b32d2a1e\transformed\navigation-ui-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\c407d1a45eb20634c4c96c63b32d2a1e\transformed\navigation-ui-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\0794bd00696bb854d5bbba875d099df2\transformed\navigation-runtime-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\0794bd00696bb854d5bbba875d099df2\transformed\navigation-runtime-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\f0033f06febec52a2feb88b711af26c4\transformed\navigation-ui-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\f0033f06febec52a2feb88b711af26c4\transformed\navigation-ui-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\8043e23cff3d65af3940d2af047561be\transformed\navigation-runtime-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\8043e23cff3d65af3940d2af047561be\transformed\navigation-runtime-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\c2339c9eb29a80e3d1d5a83ccb80302d\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\c2339c9eb29a80e3d1d5a83ccb80302d\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\48294e3d8be6ff742b96f7190281a1a2\transformed\navigation-common-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\48294e3d8be6ff742b96f7190281a1a2\transformed\navigation-common-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\28fd7349fa81bc7bee4beb9b118feff2\transformed\navigation-common-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\28fd7349fa81bc7bee4beb9b118feff2\transformed\navigation-common-2.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\261a1bf58610a705eea9addf4711361d\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\261a1bf58610a705eea9addf4711361d\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\d9f932008c9f7bee19fbda47d160eca1\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\d9f932008c9f7bee19fbda47d160eca1\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.louiscad.splitties:splitties-alertdialog-material-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8120188814b27ffab8751604cd0f6707\transformed\splitties-alertdialog-material-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-alertdialog-material-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8120188814b27ffab8751604cd0f6707\transformed\splitties-alertdialog-material-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-material-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\1229c42f45d232d81c9103ed58fa8051\transformed\splitties-views-material-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-material-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\1229c42f45d232d81c9103ed58fa8051\transformed\splitties-views-material-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-snackbar-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\7bb94f49c19d289d42b11ab2582406a8\transformed\splitties-snackbar-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-snackbar-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\7bb94f49c19d289d42b11ab2582406a8\transformed\splitties-snackbar-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-coroutines-material-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8f1bf954478354a60f44c1a5789418b1\transformed\splitties-views-coroutines-material-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-coroutines-material-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8f1bf954478354a60f44c1a5789418b1\transformed\splitties-views-coroutines-material-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\8a4e188b0ca6bebd081b7810c81b3ec7\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\8a4e188b0ca6bebd081b7810c81b3ec7\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.louiscad.splitties:splitties-material-lists-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\79c6a099cb9bbeb9a850c7a3cbdd36a3\transformed\splitties-material-lists-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-material-lists-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\79c6a099cb9bbeb9a850c7a3cbdd36a3\transformed\splitties-material-lists-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-selectable-constraintlayout-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\4432d3a695b8ac73ede5a9d39f66e5c4\transformed\splitties-views-selectable-constraintlayout-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-selectable-constraintlayout-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\4432d3a695b8ac73ede5a9d39f66e5c4\transformed\splitties-views-selectable-constraintlayout-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-dsl-constraintlayout-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\4815d08b4ff586633449648cfeaee70e\transformed\splitties-views-dsl-constraintlayout-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-dsl-constraintlayout-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\4815d08b4ff586633449648cfeaee70e\transformed\splitties-views-dsl-constraintlayout-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Prathamesh\.gradle\caches\transforms-3\479e62917529d048d0e178b459b00779\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Prathamesh\.gradle\caches\transforms-3\479e62917529d048d0e178b459b00779\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.louiscad.splitties:splitties-alertdialog-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\625c864eb8227dd138899c6c7bfcb801\transformed\splitties-alertdialog-appcompat-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-alertdialog-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\625c864eb8227dd138899c6c7bfcb801\transformed\splitties-alertdialog-appcompat-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.louiscad.splitties:splitties-views-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\d207b2efa7d1db38c5bc05228be7f372\transformed\splitties-views-appcompat-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\d207b2efa7d1db38c5bc05228be7f372\transformed\splitties-views-appcompat-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-selectable-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\80947f64bb01c694d1ef5dcb300fec1f\transformed\splitties-views-selectable-appcompat-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-selectable-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\80947f64bb01c694d1ef5dcb300fec1f\transformed\splitties-views-selectable-appcompat-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\14482afc7fc95f0fcdfd7b1e31af4342\transformed\appcompat-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\14482afc7fc95f0fcdfd7b1e31af4342\transformed\appcompat-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\e9e92026c75516c492528867a96ae074\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\e9e92026c75516c492528867a96ae074\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.louiscad.splitties:splitties-fragmentargs-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\29d9b714af13d2673ac597f0c7657907\transformed\splitties-fragmentargs-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-fragmentargs-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\29d9b714af13d2673ac597f0c7657907\transformed\splitties-fragmentargs-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\ce04eed37c6424421be7a07dc9156c01\transformed\fragment-1.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.2] C:\Users\Prathamesh\.gradle\caches\transforms-3\ce04eed37c6424421be7a07dc9156c01\transformed\fragment-1.5.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\d87c6e291625300e6b9f16ea4405a50d\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\d87c6e291625300e6b9f16ea4405a50d\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\357aa2e8a00be3379ef47b7ef9860262\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\357aa2e8a00be3379ef47b7ef9860262\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\a4e47135330166fe27d4d9caaad8c398\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\a4e47135330166fe27d4d9caaad8c398\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\6420da54b41c69fd94d5741f58608abd\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\6420da54b41c69fd94d5741f58608abd\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\8c2e3a223d4d026034cf858c025c50e4\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\8c2e3a223d4d026034cf858c025c50e4\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\03c24e8a3c2a783173dfe771fffb0427\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\03c24e8a3c2a783173dfe771fffb0427\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.louiscad.splitties:splitties-views-coroutines-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0324e610e9524d0f06e5a228fe334c4b\transformed\splitties-views-coroutines-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-coroutines-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0324e610e9524d0f06e5a228fe334c4b\transformed\splitties-views-coroutines-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-cardview-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\c5d9432b520f704bd2f4a15f8870054a\transformed\splitties-views-cardview-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-cardview-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\c5d9432b520f704bd2f4a15f8870054a\transformed\splitties-views-cardview-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-selectable-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\d7cd8d9f1583604a39e4e4d4d836bb5a\transformed\splitties-views-selectable-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-selectable-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\d7cd8d9f1583604a39e4e4d4d836bb5a\transformed\splitties-views-selectable-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-recyclerview-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\62e3709afa0041ef7574d206b507ed17\transformed\splitties-views-recyclerview-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-recyclerview-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\62e3709afa0041ef7574d206b507ed17\transformed\splitties-views-recyclerview-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-dsl-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\47f12a7152f053bf9045aa2cd0d716a4\transformed\splitties-views-dsl-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-dsl-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\47f12a7152f053bf9045aa2cd0d716a4\transformed\splitties-views-dsl-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\f8c18129be9737e4da6d13473b3afb50\transformed\splitties-views-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-views-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\f8c18129be9737e4da6d13473b3afb50\transformed\splitties-views-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-toast-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\f44308774abb1750645e2d6accc15912\transformed\splitties-toast-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-toast-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\f44308774abb1750645e2d6accc15912\transformed\splitties-toast-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-resources-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\e388d4e0219b7a7a5721fe99cee6d6df\transformed\splitties-resources-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-resources-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\e388d4e0219b7a7a5721fe99cee6d6df\transformed\splitties-resources-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-intents-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\fc51b74e3d3dbc7a064404062b05b8e7\transformed\splitties-intents-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-intents-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\fc51b74e3d3dbc7a064404062b05b8e7\transformed\splitties-intents-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-systemservices-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0e33e58d8ef4d1435b64b721ee002378\transformed\splitties-systemservices-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-systemservices-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0e33e58d8ef4d1435b64b721ee002378\transformed\splitties-systemservices-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-appctx-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\dbf0dcfa28ba0d9999071bb14e67f898\transformed\splitties-appctx-debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.louiscad.splitties:splitties-appctx-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\dbf0dcfa28ba0d9999071bb14e67f898\transformed\splitties-appctx-debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.louiscad.splitties:splitties-mainhandler-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8c0edf6776b37e2feb2e262c98153733\transformed\splitties-mainhandler-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-mainhandler-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8c0edf6776b37e2feb2e262c98153733\transformed\splitties-mainhandler-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-activities-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\ab27c4f3bb45abd3b96d4968b25e78cd\transformed\splitties-activities-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-activities-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\ab27c4f3bb45abd3b96d4968b25e78cd\transformed\splitties-activities-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-bundle-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\d00fc33301acd4e8d638b149411dc1ea\transformed\splitties-bundle-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-bundle-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\d00fc33301acd4e8d638b149411dc1ea\transformed\splitties-bundle-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-dimensions-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\d64eeb685d808537bd7bdbe7e639a711\transformed\splitties-dimensions-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-dimensions-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\d64eeb685d808537bd7bdbe7e639a711\transformed\splitties-dimensions-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-mainthread-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\fdeffd83ab1717db323afcb614a15c48\transformed\splitties-mainthread-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-mainthread-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\fdeffd83ab1717db323afcb614a15c48\transformed\splitties-mainthread-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-material-colors-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\be36af7cc2e141e9f9a0816ed7e64405\transformed\splitties-material-colors-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-material-colors-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\be36af7cc2e141e9f9a0816ed7e64405\transformed\splitties-material-colors-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-exceptions-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\604e85ffc11bf2f75bdaf978779a5e47\transformed\splitties-exceptions-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [com.louiscad.splitties:splitties-exceptions-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\604e85ffc11bf2f75bdaf978779a5e47\transformed\splitties-exceptions-debug\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0c850290a36de1163d538ce3dc3841d3\transformed\core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0c850290a36de1163d538ce3dc3841d3\transformed\core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\fac3fa795c13e54c565ff25885df1208\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\fac3fa795c13e54c565ff25885df1208\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\1a309b7e80d6b2e168f8d91d82fcbfb8\transformed\timber-5.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\1a309b7e80d6b2e168f8d91d82fcbfb8\transformed\timber-5.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\62113bf9b28d8514837cd49085b8cfc2\transformed\appcompat-resources-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\62113bf9b28d8514837cd49085b8cfc2\transformed\appcompat-resources-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\2eb359899ce1cf2a02f9893f5b00a0eb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\2eb359899ce1cf2a02f9893f5b00a0eb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\882be0847b21b6add521515877fb0223\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\882be0847b21b6add521515877fb0223\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\5939407cba89a682be98a02f902dbecb\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\5939407cba89a682be98a02f902dbecb\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\4ef7eb172e511e84c15d7c6ea75f3581\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\4ef7eb172e511e84c15d7c6ea75f3581\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\a28cf20a37fa47d15bebc2a3074ee647\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\a28cf20a37fa47d15bebc2a3074ee647\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\717414a57bfab76606a8e8a7e05151cc\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\717414a57bfab76606a8e8a7e05151cc\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\eca73bb029338c01109091899fb184f2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\eca73bb029338c01109091899fb184f2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\d6465c228a27a1b56c65c9e4010f6250\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\d6465c228a27a1b56c65c9e4010f6250\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\76f2bc71c903ce0c59ac889e575a5096\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\76f2bc71c903ce0c59ac889e575a5096\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\4641e1f090147ddf0145b0866be019cf\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\4641e1f090147ddf0145b0866be019cf\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\ced64f7c003cf7e53d38b5073d71f174\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\ced64f7c003cf7e53d38b5073d71f174\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\2e529ae5e231cc2dedbe7b42f7a10a1e\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\2e529ae5e231cc2dedbe7b42f7a10a1e\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\9f5195e030602974dd167e4d774b2a6d\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\9f5195e030602974dd167e4d774b2a6d\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0bbd1ac94e5abeb89e25cdfd432b4829\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0bbd1ac94e5abeb89e25cdfd432b4829\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\6cabb1080d0fccfaf458346024c66fb9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\6cabb1080d0fccfaf458346024c66fb9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\47b87ff9a7a02422a7f1260524c807cd\transformed\viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\47b87ff9a7a02422a7f1260524c807cd\transformed\viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\3d22f6ac62dc953f0c48dc89ed1d39b4\transformed\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\3d22f6ac62dc953f0c48dc89ed1d39b4\transformed\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8cc7e21488609b8f72912e0766aee613\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8cc7e21488609b8f72912e0766aee613\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\8c03cb59b3d1c6e15b943b619f5918c8\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\8c03cb59b3d1c6e15b943b619f5918c8\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\2410b5360f1212cda693d5f6e64c82ff\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\2410b5360f1212cda693d5f6e64c82ff\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\2439feaae6df24843190b1c23670a0ac\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\2439feaae6df24843190b1c23670a0ac\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\f753fc698ba6603b59097be3e6411b5a\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\f753fc698ba6603b59097be3e6411b5a\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\9eb6ee35944cd0327792ab4b11315366\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\9eb6ee35944cd0327792ab4b11315366\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\d7d81f943ddb978dd8e2601f9348b5ec\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\d7d81f943ddb978dd8e2601f9348b5ec\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\02923b818f933947fa049eae87e7001f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\02923b818f933947fa049eae87e7001f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\1e1d455ba41d028f62b70a8aa7cff3c5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\1e1d455ba41d028f62b70a8aa7cff3c5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\d09f290b33b4ba0b4e9634741ca788c2\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Prathamesh\.gradle\caches\transforms-3\d09f290b33b4ba0b4e9634741ca788c2\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\e27ef2c1e15b5b0366c75ab8bab58608\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\e27ef2c1e15b5b0366c75ab8bab58608\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\427df5ee3d8b9121a6fdddc090a944cf\transformed\startup-runtime-1.1.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\427df5ee3d8b9121a6fdddc090a944cf\transformed\startup-runtime-1.1.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0a11f7303b9e3aebd230d7de9fdb7f39\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0a11f7303b9e3aebd230d7de9fdb7f39\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0401cfcce8f68f707ad9fc81693d1dfe\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0401cfcce8f68f707ad9fc81693d1dfe\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\d1c44cd4ad46464bb33537d839631a11\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\d1c44cd4ad46464bb33537d839631a11\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\e369a274a198873587f4f39a386c16c7\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\e369a274a198873587f4f39a386c16c7\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\cffae8dffaf81854dd4d9e3d6e10dfe4\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\cffae8dffaf81854dd4d9e3d6e10dfe4\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml
+activity#splitties.permissions.internal.PermissionRequestFallbackActivity
+ADDED from [com.louiscad.splitties:splitties-permissions-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\5f6ced76a3949fc1635b149e1bc47b9d\transformed\splitties-permissions-debug\AndroidManifest.xml:11:9-13:91
+	android:theme
+		ADDED from [com.louiscad.splitties:splitties-permissions-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\5f6ced76a3949fc1635b149e1bc47b9d\transformed\splitties-permissions-debug\AndroidManifest.xml:13:13-88
+	android:name
+		ADDED from [com.louiscad.splitties:splitties-permissions-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\5f6ced76a3949fc1635b149e1bc47b9d\transformed\splitties-permissions-debug\AndroidManifest.xml:12:13-92
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\b78b12446456cc9b94381cebbe873725\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\b78b12446456cc9b94381cebbe873725\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\b78b12446456cc9b94381cebbe873725\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\b78b12446456cc9b94381cebbe873725\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\b78b12446456cc9b94381cebbe873725\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\b78b12446456cc9b94381cebbe873725\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:12:9-22:20
+MERGED from [com.louiscad.splitties:splitties-appctx-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\dbf0dcfa28ba0d9999071bb14e67f898\transformed\splitties-appctx-debug\AndroidManifest.xml:12:9-22:20
+MERGED from [com.louiscad.splitties:splitties-appctx-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\dbf0dcfa28ba0d9999071bb14e67f898\transformed\splitties-appctx-debug\AndroidManifest.xml:12:9-22:20
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\717414a57bfab76606a8e8a7e05151cc\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\717414a57bfab76606a8e8a7e05151cc\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8cc7e21488609b8f72912e0766aee613\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8cc7e21488609b8f72912e0766aee613\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\427df5ee3d8b9121a6fdddc090a944cf\transformed\startup-runtime-1.1.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\427df5ee3d8b9121a6fdddc090a944cf\transformed\startup-runtime-1.1.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:18:13-31
+	android:authorities
+		ADDED from [com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:14:13-68
+	android:exported
+		ADDED from [com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:16:13-37
+	tools:ignore
+		ADDED from [com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:17:13-43
+	android:directBootAware
+		ADDED from [com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from [com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:13:13-67
+meta-data#splitties.views.dsl.appcompat.experimental.AppCompatViewInstantiatorInjecter
+ADDED from [com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:19:13-21:52
+	android:value
+		ADDED from [com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:21:17-49
+	android:name
+		ADDED from [com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:20:17-108
+meta-data#splitties.init.AppCtxInitializer
+ADDED from [com.louiscad.splitties:splitties-appctx-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\dbf0dcfa28ba0d9999071bb14e67f898\transformed\splitties-appctx-debug\AndroidManifest.xml:19:13-21:52
+	android:value
+		ADDED from [com.louiscad.splitties:splitties-appctx-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\dbf0dcfa28ba0d9999071bb14e67f898\transformed\splitties-appctx-debug\AndroidManifest.xml:21:17-49
+	android:name
+		ADDED from [com.louiscad.splitties:splitties-appctx-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\dbf0dcfa28ba0d9999071bb14e67f898\transformed\splitties-appctx-debug\AndroidManifest.xml:20:17-64
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\717414a57bfab76606a8e8a7e05151cc\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\717414a57bfab76606a8e8a7e05151cc\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\717414a57bfab76606a8e8a7e05151cc\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8cc7e21488609b8f72912e0766aee613\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8cc7e21488609b8f72912e0766aee613\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8cc7e21488609b8f72912e0766aee613\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78

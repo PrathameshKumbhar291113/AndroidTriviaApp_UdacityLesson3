@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.louiscad.splitties:splitties-views-selectable-constraintlayout-android:3.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a503b434d38838fdc59dfad8c290dddf/transformed/splitties-views-selectable-constraintlayout-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4432d3a695b8ac73ede5a9d39f66e5c4/transformed/splitties-views-selectable-constraintlayout-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4432d3a695b8ac73ede5a9d39f66e5c4/transformed/splitties-views-selectable-constraintlayout-debug/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4432d3a695b8ac73ede5a9d39f66e5c4/transformed/splitties-views-selectable-constraintlayout-debug/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-views-selectable-constraintlayout-android/3.0.0/de1ac78aaabccd0784bd10d6dc32c421074a97ad/splitties-views-selectable-constraintlayout-android-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-views-selectable-constraintlayout-android/3.0.0/36ee089637ff2676ebd6a3d80c867eddc310acc8/splitties-views-selectable-constraintlayout-android-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

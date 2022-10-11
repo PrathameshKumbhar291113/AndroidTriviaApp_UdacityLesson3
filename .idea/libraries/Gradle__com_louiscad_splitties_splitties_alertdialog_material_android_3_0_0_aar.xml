@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.louiscad.splitties:splitties-alertdialog-material-android:3.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/981190dfe0bca296b79f01a24dace5c2/transformed/splitties-alertdialog-material-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8120188814b27ffab8751604cd0f6707/transformed/splitties-alertdialog-material-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8120188814b27ffab8751604cd0f6707/transformed/splitties-alertdialog-material-debug/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8120188814b27ffab8751604cd0f6707/transformed/splitties-alertdialog-material-debug/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-alertdialog-material-android/3.0.0/2cffd5775ddba831a54c0b21cc94791f95fefd18/splitties-alertdialog-material-android-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-alertdialog-material-android/3.0.0/c0cb715b68e8e15705764ce18e618bb87bfe9ca1/splitties-alertdialog-material-android-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

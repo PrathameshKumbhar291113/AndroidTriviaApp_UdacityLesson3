@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.louiscad.splitties:splitties-lifecycle-coroutines-android:3.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/19e0f57f3d0b1e1e010ffe32b72f2f94/transformed/splitties-lifecycle-coroutines-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1d9877d2a78a35e12677ef0d12861bc9/transformed/splitties-lifecycle-coroutines-debug/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1d9877d2a78a35e12677ef0d12861bc9/transformed/splitties-lifecycle-coroutines-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1d9877d2a78a35e12677ef0d12861bc9/transformed/splitties-lifecycle-coroutines-debug/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-lifecycle-coroutines-android/3.0.0/6709d0a1e64bca0f588d840f82d9fe13a4383afa/splitties-lifecycle-coroutines-android-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-lifecycle-coroutines-android/3.0.0/b540cfb9c5c8b1e1ff6f3e3fdb6b24677e107f31/splitties-lifecycle-coroutines-android-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

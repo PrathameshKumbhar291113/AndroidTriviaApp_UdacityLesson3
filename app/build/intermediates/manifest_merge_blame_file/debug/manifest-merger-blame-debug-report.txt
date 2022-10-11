@@ -1,0 +1,109 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myapplication"
+4    android:versionCode="2"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:6:5-25:19
+12        android:allowBackup="true"
+12-->C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.8.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\0bbd1ac94e5abeb89e25cdfd432b4829\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:8:9-65
+15        android:debuggable="true"
+16        android:fullBackupContent="@xml/backup_rules"
+16-->C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:9:9-54
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:10:9-43
+18        android:label="@string/app_name"
+18-->C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:11:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:12:9-54
+20        android:supportsRtl="true"
+20-->C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:13:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.MyApplication" >
+22-->C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:14:9-51
+23        <activity
+23-->C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:16:9-24:20
+24            android:name="com.example.myapplication.MainActivity"
+24-->C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:17:13-41
+25            android:exported="true" >
+25-->C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:18:13-36
+26            <intent-filter>
+26-->C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:19:13-23:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:20:17-69
+27-->C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:20:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:22:17-77
+29-->C:\Users\Prathamesh\AndroidStudioProjects\Study Projects\TriviaUdacityLesson3\NewTriviaApp\app\src\main\AndroidManifest.xml:22:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity
+32-->[com.louiscad.splitties:splitties-permissions-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\5f6ced76a3949fc1635b149e1bc47b9d\transformed\splitties-permissions-debug\AndroidManifest.xml:11:9-13:91
+33            android:name="splitties.permissions.internal.PermissionRequestFallbackActivity"
+33-->[com.louiscad.splitties:splitties-permissions-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\5f6ced76a3949fc1635b149e1bc47b9d\transformed\splitties-permissions-debug\AndroidManifest.xml:12:13-92
+34            android:theme="@style/SplittiesPermissionsFallbackActivityTransparentTheme" />
+34-->[com.louiscad.splitties:splitties-permissions-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\5f6ced76a3949fc1635b149e1bc47b9d\transformed\splitties-permissions-debug\AndroidManifest.xml:13:13-88
+35
+36        <uses-library
+36-->[androidx.window:window:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\b78b12446456cc9b94381cebbe873725\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+37            android:name="androidx.window.extensions"
+37-->[androidx.window:window:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\b78b12446456cc9b94381cebbe873725\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+38            android:required="false" />
+38-->[androidx.window:window:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\b78b12446456cc9b94381cebbe873725\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+39        <uses-library
+39-->[androidx.window:window:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\b78b12446456cc9b94381cebbe873725\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+40            android:name="androidx.window.sidecar"
+40-->[androidx.window:window:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\b78b12446456cc9b94381cebbe873725\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+41            android:required="false" />
+41-->[androidx.window:window:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\b78b12446456cc9b94381cebbe873725\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+42
+43        <provider
+43-->[com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:12:9-22:20
+44            android:name="androidx.startup.InitializationProvider"
+44-->[com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:13:13-67
+45            android:authorities="com.example.myapplication.androidx-startup"
+45-->[com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:14:13-68
+46            android:directBootAware="true"
+46-->[com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:15:13-43
+47            android:exported="false" >
+47-->[com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:16:13-37
+48            <meta-data
+48-->[com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:19:13-21:52
+49                android:name="splitties.views.dsl.appcompat.experimental.AppCompatViewInstantiatorInjecter"
+49-->[com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:20:17-108
+50                android:value="androidx.startup" />
+50-->[com.louiscad.splitties:splitties-views-dsl-appcompat-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\827a1853c7e354e276a04768cc3217ff\transformed\splitties-views-dsl-appcompat-debug\AndroidManifest.xml:21:17-49
+51            <meta-data
+51-->[com.louiscad.splitties:splitties-appctx-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\dbf0dcfa28ba0d9999071bb14e67f898\transformed\splitties-appctx-debug\AndroidManifest.xml:19:13-21:52
+52                android:name="splitties.init.AppCtxInitializer"
+52-->[com.louiscad.splitties:splitties-appctx-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\dbf0dcfa28ba0d9999071bb14e67f898\transformed\splitties-appctx-debug\AndroidManifest.xml:20:17-64
+53                android:value="androidx.startup" />
+53-->[com.louiscad.splitties:splitties-appctx-android:3.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\dbf0dcfa28ba0d9999071bb14e67f898\transformed\splitties-appctx-debug\AndroidManifest.xml:21:17-49
+54            <meta-data
+54-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\717414a57bfab76606a8e8a7e05151cc\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+55                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+55-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\717414a57bfab76606a8e8a7e05151cc\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+56                android:value="androidx.startup" />
+56-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\717414a57bfab76606a8e8a7e05151cc\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+57            <meta-data
+57-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8cc7e21488609b8f72912e0766aee613\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+58                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+58-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8cc7e21488609b8f72912e0766aee613\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+59                android:value="androidx.startup" />
+59-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Prathamesh\.gradle\caches\transforms-3\8cc7e21488609b8f72912e0766aee613\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+60        </provider>
+61    </application>
+62
+63</manifest>

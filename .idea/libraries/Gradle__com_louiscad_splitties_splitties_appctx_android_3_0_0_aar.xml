@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.louiscad.splitties:splitties-appctx-android:3.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/259dd23e5e1d7e08056e970ff179bca7/transformed/splitties-appctx-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dbf0dcfa28ba0d9999071bb14e67f898/transformed/splitties-appctx-debug/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/dbf0dcfa28ba0d9999071bb14e67f898/transformed/splitties-appctx-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dbf0dcfa28ba0d9999071bb14e67f898/transformed/splitties-appctx-debug/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-appctx-android/3.0.0/23239b3124e8689ef426f34819f5fa748393be19/splitties-appctx-android-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-appctx-android/3.0.0/e1c981f778d08a1a1e129431585326666f36f784/splitties-appctx-android-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.louiscad.splitties:splitties-preferences-android:3.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5cd00360774241f62aebf47a0cc99033/transformed/splitties-preferences-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/72a7ec11df78fecc6ed6acddd561cc63/transformed/splitties-preferences-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/72a7ec11df78fecc6ed6acddd561cc63/transformed/splitties-preferences-debug/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/72a7ec11df78fecc6ed6acddd561cc63/transformed/splitties-preferences-debug/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-preferences-android/3.0.0/613ce8ced018b05f4b4493c5e1b01ae2608cc06f/splitties-preferences-android-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-preferences-android/3.0.0/d256ba5602950705874c0098a24ec55a3af076b6/splitties-preferences-android-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.louiscad.splitties:splitties-permissions-android:3.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5f6ced76a3949fc1635b149e1bc47b9d/transformed/splitties-permissions-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5f6ced76a3949fc1635b149e1bc47b9d/transformed/splitties-permissions-debug/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5f6ced76a3949fc1635b149e1bc47b9d/transformed/splitties-permissions-debug/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-permissions-android/3.0.0/235474367c18d05f5dfc16170343101321222a11/splitties-permissions-android-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.louiscad.splitties/splitties-permissions-android/3.0.0/9aa79c7e55fb45ec1549783c7187dfc5fda7bf69/splitties-permissions-android-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
