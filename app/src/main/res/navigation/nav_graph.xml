@@ -8,8 +8,8 @@
     <fragment
         android:id="@+id/titleFragment"
         android:name="com.example.myapplication.TitleFragment"
-        android:label="fragment_title"
-        tools:layout="@layout/fragment_title" >
+        android:label="@string/android_trivia"
+        tools:layout="@layout/fragment_title">
         <action
             android:id="@+id/action_titleFragment_to_gameFragment"
             app:destination="@id/gameFragment" />
@@ -17,8 +17,8 @@
     <fragment
         android:id="@+id/gameFragment"
         android:name="com.example.myapplication.GameFragment"
-        android:label="fragment_game"
-        tools:layout="@layout/fragment_game" >
+        android:label="@string/title_android_trivia_question"
+        tools:layout="@layout/fragment_game">
         <action
             android:id="@+id/action_gameFragment_to_gameOverFragment2"
             app:destination="@id/gameOverFragment2"
@@ -33,8 +33,8 @@
     <fragment
         android:id="@+id/gameOverFragment2"
         android:name="com.example.myapplication.GameOverFragment"
-        android:label="fragment_game_over"
-        tools:layout="@layout/fragment_game_over" >
+        android:label="@string/game_over"
+        tools:layout="@layout/fragment_game_over">
         <action
             android:id="@+id/action_gameOverFragment2_to_gameFragment"
             app:destination="@id/gameFragment"
@@ -44,7 +44,7 @@
     <fragment
         android:id="@+id/gameWonFragment"
         android:name="com.example.myapplication.GameWonFragment"
-        android:label="GameWonFragment" >
+        android:label="@string/congratulations">
         <action
             android:id="@+id/action_gameWonFragment_to_gameFragment"
             app:destination="@id/gameFragment"
@@ -62,4 +62,8 @@
         android:name="com.example.myapplication.AboutFragment"
         android:label="@string/title_about_trivia"
         tools:layout="@layout/fragment_about" />
+    <fragment
+        android:id="@+id/rulesFragment"
+        android:name="com.example.myapplication.RulesFragment"
+        android:label="RulesFragment" />
 </navigation>

@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Prathamesh/AndroidStudioProjects/Study Projects/NewTriviaApp_TriviaUdacityLesson3/app/src/main/res/drawable/nav_header.xml" value="0.1215" />
+        <entry key="..\:/Users/Prathamesh/AndroidStudioProjects/Study Projects/NewTriviaApp_TriviaUdacityLesson3/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Prathamesh/AndroidStudioProjects/Study Projects/NewTriviaApp_TriviaUdacityLesson3/app/src/main/res/layout/fragment_about.xml" value="0.1" />
+        <entry key="..\:/Users/Prathamesh/AndroidStudioProjects/Study Projects/NewTriviaApp_TriviaUdacityLesson3/app/src/main/res/layout/nav_header.xml" value="0.1" />
+        <entry key="..\:/Users/Prathamesh/AndroidStudioProjects/Study Projects/NewTriviaApp_TriviaUdacityLesson3/app/src/main/res/menu/nav_drawer.xml" value="0.2" />
+        <entry key="..\:/Users/Prathamesh/AndroidStudioProjects/Study Projects/NewTriviaApp_TriviaUdacityLesson3/app/src/main/res/menu/winner_menu.xml" value="0.25677083333333334" />
         <entry key="..\:/Users/Prathamesh/AndroidStudioProjects/Study Projects/TriviaUdacityLesson3/NewTriviaApp/app/src/main/res/drawable/share.xml" value="0.1215" />
         <entry key="..\:/Users/Prathamesh/AndroidStudioProjects/Study Projects/TriviaUdacityLesson3/NewTriviaApp/app/src/main/res/layout/activity_main.xml" value="0.11214087117701575" />
         <entry key="..\:/Users/Prathamesh/AndroidStudioProjects/Study Projects/TriviaUdacityLesson3/NewTriviaApp/app/src/main/res/layout/fragment_game.xml" value="0.10885416666666667" />
